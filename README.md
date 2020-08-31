@@ -21,4 +21,4 @@ simple podman systemd booted container that runs arch with icewm window manager 
             - export DISPLAY=:0
             - x11vnc
         - On host
-            - connect from host using eg vncviewer 127.0.0.1:5900
+            - use eg vncviewer and connect to 127.0.0.1:5900
