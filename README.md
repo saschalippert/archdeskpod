@@ -8,7 +8,7 @@ simple systemd initialized podman container that runs arch with icewm window man
 ![VNC](https://github.com/saschalippert/archdeskpod/blob/master/vncviewer.png)
 
 - This image is not not production ready. Use at own risk
-- I am running arch on the host. Instructions will vary for other distros
+- I am running arch (btw) on the host. Instructions will vary for other distros
 - Installation
     - Configure rootless podman
         - https://www.redhat.com/sysadmin/rootless-podman-makes-sense
