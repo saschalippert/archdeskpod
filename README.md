@@ -1,6 +1,6 @@
 # archdeskpod
 
-simple podman systemd initialized container that runs arch with icewm window manager where you can vnc into. The containers work with rootless podman.
+simple systemd initialized podman container that runs arch with icewm window manager where you can vnc into. The containers work with rootless podman.
 
 (dont let the name archdeskpod fool you - it is not using podman pods. I just liked that name that way)
 
