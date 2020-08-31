@@ -2,6 +2,9 @@
 
 simple podman systemd booted container that runs arch with icewm window manager where you can vnc into. The containers works with rootless podman.
 
+![Login](https://github.com/saschalippert/archdeskpod/blob/master/login.png)
+![VNC](https://github.com/saschalippert/archdeskpod/blob/master/vncviewer.png)
+
 - This image is not not production ready. Use at own risk
 - I am running arch on the host. Instructions will vary for other distros
 - Installation
