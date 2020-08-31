@@ -19,7 +19,7 @@ simple podman systemd initialized container that runs arch with icewm window man
 - Use run.sh to run the container
     - Root will be logged in automatically
     - For vnc run the following
-        - In root console (hit enter once)
+        - In container root console (hit enter once)
             - export DISPLAY=:0
             - x11vnc
         - On host
