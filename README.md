@@ -24,5 +24,5 @@ simple systemd initialized podman container that runs arch with icewm window man
             - x11vnc
         - On host
             - use eg vncviewer and connect to 127.0.0.1:5900
-    - Stopping
+    - Stopping the container from inside
         - shutdown -h now 
